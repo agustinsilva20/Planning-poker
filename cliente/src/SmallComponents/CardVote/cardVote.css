@@ -1,0 +1,14 @@
+.card-vote{
+    width: 150px;
+    height: 200px;
+    background-color: white;
+    border-radius: 0.25em;
+    color:rgb(71,23,143);
+    font-size: 2rem;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin:1rem;
+}

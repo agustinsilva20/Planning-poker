@@ -1,0 +1,11 @@
+.results-body{
+    width: 100%;
+}
+.container-votos{
+    width: 80%;
+    margin: auto;
+    height: 80vh;
+    background-color: white;
+    border-radius: 0.25em;
+    overflow-y: scroll;
+}

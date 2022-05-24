@@ -1,0 +1,21 @@
+.admin-cont{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.btn-admin{
+    margin-right: 2rem;
+    margin-top: 1rem;
+    background-color: rgb(212, 63, 63);
+    padding: 10px 20px;
+    border-radius: 0.25em;
+    cursor: pointer;
+    transition: .2s ease all;
+    color: white;
+    border: none;
+}
+
+.btn-admin:hover{
+    background-color: rgb(180, 50, 50);
+}

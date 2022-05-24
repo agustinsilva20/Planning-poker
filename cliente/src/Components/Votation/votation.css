@@ -1,0 +1,16 @@
+.main-votation{
+    width: 100%;
+    height: 100vh
+
+}
+.question{
+    margin-top: 2rem;
+}
+.voting-cont{
+    width: 80%;
+    margin:auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+}

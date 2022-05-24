@@ -1,0 +1,21 @@
+.main-AddStory{
+    height: 80%;
+    width: 80%;
+}
+.story{
+    width: 40%;
+    height: 2rem;
+}
+.buttons{
+    display: flex;
+    width: auto;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.btn-story{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}

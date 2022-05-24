@@ -1,0 +1,16 @@
+.box{
+    background-color:rgb(35,11,71) ;
+    width:250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    border-radius: 100px;
+    height: auto;
+    
+}
+p{
+    width: 200px;
+    overflow-wrap: break-word;
+}
+

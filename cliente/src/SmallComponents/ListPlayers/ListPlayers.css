@@ -1,0 +1,7 @@
+.main-list{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
